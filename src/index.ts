@@ -1,1 +1,3 @@
-console.log('Hello world');
+import getHelloWorld from './getHelloWorld';
+
+console.log(getHelloWorld());
