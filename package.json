@@ -1,0 +1,9 @@
+{
+  "name": "nunjts",
+  "version": "1.0.0",
+  "description": "Nunjucks template generation with typescript",
+  "main": "index.js",
+  "author": "sire-sam <samuel.lesire@gmail.com>",
+  "license": "UNLICENSED",
+  "private": true
+}
