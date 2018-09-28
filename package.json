@@ -9,7 +9,7 @@
   "scripts": {
     "start": "ts-node src/index.ts",
     "test": "jest",
-    "dev-test": "jest && jest --watch"
+    "dev-test": "node $NODE_DEBUG_OPTION ./node_modules/.bin/jest && ./node_modules/.bin/jest --watch"
   },
   "devDependencies": {
     "@types/debug": "^0.0.30",
