@@ -1,4 +1,5 @@
 {
+  "extends": "../dataDefault.json",
   "id": 1,
   "test": "me"
 }
