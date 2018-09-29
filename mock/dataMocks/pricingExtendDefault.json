@@ -1,0 +1,4 @@
+{
+  "extends": "../dataDefault.json",
+  "price": 0
+}

@@ -1,0 +1,4 @@
+{
+  "extends": "./pricingExtendDefault.json",
+  "id": 3
+}
